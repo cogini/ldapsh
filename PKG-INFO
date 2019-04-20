@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: ldapsh
+Version: 0.6
+Summary: LDAP shell interface
+Description: CLI to manage an LDAP directory
+Home-page: https://github.com/cogini/ldapsh
+Author: Jake Morrison
+Author-email: "Jake Morrison" <jake@cogini.com>
+Keywords: LDAP CLI
+License: Apache 2.0
+Platform: UNKNOWN
